@@ -1,0 +1,24 @@
+body {
+	background-image: url(https://cache.desktopnexus.com/cropped-wallpapers/2376/2376291-1440x900-[DesktopNexus.com].jpg?st=FkyUFJ55-zhPsrAMCgBrEA&e=1583791234);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120%;
+}
+
+h1{
+	color: black;
+}
+p{ 
+color: white; 
+
+}
+
+a{
+	color: white;
+	text-align:center;
+}
+
+iframe {
+	padding-top: 20px
+}

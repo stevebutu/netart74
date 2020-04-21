@@ -1,0 +1,20 @@
+body {
+	background-image: url(https://c.wallhere.com/photos/f6/6e/building_Asian_architecture_dark_sky_sunset_water_clouds_digital_art-1184128.jpg!d);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 160%;
+}
+
+h1{
+	color: white;
+}
+p{ 
+color: #9EECFF; 
+
+}
+
+a{
+	color:#9EECFF;
+	text-align:center;
+}
